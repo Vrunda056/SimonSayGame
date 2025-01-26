@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    margin: 10px 10px 15px 10px;
+    border-radius: 20%;
+}
+
+spam{
+    font-size: larger;
+}
+.blue{
+   background-color:#2d6286fc ;
+}
+.pink{
+    background-color: #EB3678;
+}
+.purple{
+    background-color:#805ab6 ;
+}
+.orange{
+    background-color:#FB773C ;
+}
+
+.white{
+    background-color: white;
+}
+.red{
+    background-color: rgb(233, 53, 53);
+}
