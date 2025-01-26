@@ -21,7 +21,4 @@ This project was built as a hands-on exercise to improve JavaScript skills, focu
 3. Each round adds one more step to the sequence.
 4. The game ends if you click the wrong button—try again and beat your score!
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/simon-says-game.git
+
